@@ -1,0 +1,6 @@
+framework module Pods_InnowatsAssignmentFlickrSearch {
+  umbrella header "Pods-InnowatsAssignmentFlickrSearch-umbrella.h"
+
+  export *
+  module * { export * }
+}
