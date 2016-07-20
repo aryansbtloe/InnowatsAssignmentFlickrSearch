@@ -481,7 +481,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = InnowatsAssignmentFlickrSearch/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.alok.nexgear.InnowatsAssignmentFlickrSearch;
+				PRODUCT_BUNDLE_IDENTIFIER = com.alok.InnowatsAssignmentFlickrSearch;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "/Users/orahi/Desktop/temp/InnowatsAssignmentFlickrSearch/InnowatsAssignmentFlickrSearch/InnowatsAssignmentFlickrSearch-Bridging-Header.h";
 			};
@@ -494,7 +494,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = InnowatsAssignmentFlickrSearch/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
-				PRODUCT_BUNDLE_IDENTIFIER = com.alok.nexgear.InnowatsAssignmentFlickrSearch;
+				PRODUCT_BUNDLE_IDENTIFIER = com.alok.InnowatsAssignmentFlickrSearch;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "/Users/orahi/Desktop/temp/InnowatsAssignmentFlickrSearch/InnowatsAssignmentFlickrSearch/InnowatsAssignmentFlickrSearch-Bridging-Header.h";
 			};
